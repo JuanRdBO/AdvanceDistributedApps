@@ -22,9 +22,11 @@ Advanced Distributed Applications
 
 `>> Hello fri3nd.`
 
-This is `dvrp` and `jorb`. 
+This is `jorb`. 
 
 This is a collection of notes, seminars and projects that we have done through our Bachelor's Degree in Engineering while we were enrolled in the Advanced Distributed Applications class of the UPF. This was not done, by any means to facilitate answers to other students, and we are not responsible for any consequence of using our code in the practices of the course, such as being accused of plagiarism or any other similar term. 
+
+`PLEASE NOTE THAT THE CODE IS NOT FUNCTIONAL AS OF THIS MOMENT YET.`
 
 `Signed, jorb.`
 
